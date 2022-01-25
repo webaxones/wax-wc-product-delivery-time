@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wax WooCommerce Product Delivery Time\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-08 15:07+0000\n"
+"PO-Revision-Date: 2022-01-25 08:03+0000\n"
+"Last-Translator: Saint Max Music\n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.1\n"
+"X-Domain: wax-product-delivery-time"
+
+#: wax-wc-product-delivery-time.php:56
+msgid ""
+"A multiple of 7 will be displayed in number of weeks. Example: 14 days will "
+"be displayed \"2 weeks\", but 15 days will be displayed \"15 days\""
+msgstr ""
+"Un multiple de 7 sera affiché en nombre de semaines. Exemple : 14 jours "
+"seront affichés « 2 semaines », mais 15 jours seront affichés « 15 jours »"
+
+#. Description of the plugin
+msgid ""
+"Add a field to WooCommerce product to set an estimated delivery time in days"
+msgstr ""
+"Ajoute un champ au produit WooCommerce pour définir un nombre de jours de "
+"livraison estimé"
+
+#: wax-wc-product-delivery-time.php:218
+msgid "Backorders"
+msgstr "Commandes en réapprovisionnement"
+
+#: wax-wc-product-delivery-time.php:280
+msgid "days"
+msgstr "jours"
+
+#: wax-wc-product-delivery-time.php:239
+msgid "Default number of days"
+msgstr "Nombre de jours par défaut"
+
+#: wax-wc-product-delivery-time.php:232
+msgid "Delivery times for backorders"
+msgstr "Délais de livraison pour les commandes en réapprovisionnement"
+
+#: wax-wc-product-delivery-time.php:247
+msgid "Delivery times text"
+msgstr "Texte du délai de livraison"
+
+#: wax-wc-product-delivery-time.php:251
+#| msgid ""
+#| "Don’t forget the code \"$s\" if you want to display the number of days!"
+msgid "Don’t forget the code \"%s\" if you want to display the number of days!"
+msgstr ""
+"N’oubliez pas le code « %s » si vous voulez afficher le nombre de jours !"
+
+#: wax-wc-product-delivery-time.php:54 wax-wc-product-delivery-time.php:114
+msgid "Estimated number of days"
+msgstr "Nombre de jours estimé"
+
+#: wax-wc-product-delivery-time.php:29
+msgid "Extension Wax WooCommerce Product Delivery Time"
+msgstr "Extension Wax WooCommerce Product Delivery Time"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.webaxones.com"
+msgstr "https://www.webaxones.com"
+
+#. Author of the plugin
+msgid "Loïc Antignac"
+msgstr "Loïc Antignac"
+
+#: wax-wc-product-delivery-time.php:243
+msgid ""
+"Multiples of 7 will be displayed in number of weeks. Example: 14 days will "
+"be displayed in 2 weeks."
+msgstr ""
+"Les multiples de 7 seront affichés en nombre de semaines. Exemple : si vous "
+"définissez 14 jours, « 2 semaines » sera affiché."
+
+#: wax-wc-product-delivery-time.php:28
+msgid ""
+"Sorry! To use Wax WooCommerce Product Delivery Time, you must install and "
+"activate the WooCommerce extension."
+msgstr ""
+"Désolé ! Pour utiliser Wax WooCommerce Product Delivery Time, vous devez "
+"installer et activer l’extension WooCommerce."
+
+#: wax-wc-product-delivery-time.php:234
+msgid ""
+"The following options are used to configure default delivery times for "
+"backorders"
+msgstr ""
+"Les options suivantes sont utilisées pour configurer les valeurs par défaut "
+"des délais de livraison des commandes en réapprovisionnement"
+
+#: wax-wc-product-delivery-time.php:240
+msgid ""
+"The number of days that will be set by default if a product is allowed to be "
+"backordered"
+msgstr ""
+"Le nombre de jours qui sera défini par défaut si un produit est autorisé à "
+"être commandé en réapprovisionnement"
+
+#: wax-wc-product-delivery-time.php:248
+#| msgid ""
+#| "This will override the \"Available for back order\" text on product pages."
+#| " Important: use $s into this text and it will be replaced with the number "
+#| "of days. Example: \"Available for backorders within $s\" will display "
+#| "\"Available for backorders within 4 days\" if previous field contains 4."
+msgid ""
+"This will override the \"Available for back order\" text on product pages. "
+"Important: use %s into this text and it will be replaced with the number of "
+"days. Example: \"Available for backorders within %s\" will display "
+"\"Available for backorders within 4 days\" if previous field contains 4."
+msgstr ""
+"Ceci remplacera le texte « Disponible pour les commandes en "
+"réapprovisionnement » sur les pages de produits.\n"
+"Important : utilisez le code %s dans le texte afin qu’il soit remplacé par "
+"le nombre de jours.\n"
+"Exemple : « Disponible pour les commandes en réapprovisionnement sous %s » "
+"sera affiché ainsi « Disponible pour les commandes en réapprovisionnement "
+"sous 4 jours » si le champ précédent contient 4."
+
+#. Name of the plugin
+msgid "Wax WooCommerce Product Delivery Time"
+msgstr "Wax WooCommerce Product Delivery Time"
+
+#: wax-wc-product-delivery-time.php:285
+msgid "weeks"
+msgstr "semaines"
